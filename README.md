@@ -1,2 +1,2 @@
-# jamesckent.github.io
+# James Kent
 Online Portfolio
