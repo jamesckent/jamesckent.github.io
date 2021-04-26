@@ -9,4 +9,5 @@ Welcome to my online portfolio where I will be sharing all my exciting feats as 
 ## First Assignment
 One of my first assignments as I learn to code was to better understand simple agent-based models. I therefore set about creating an agent-based model using the matplotlib library, animated it, added in a stopping condition with a limited number of iterations, and then embedded it into a TkInter GUI. For a more detailed overview with a link to my GitHub repository, please click the following link:
 <br>
+<br>
 https://jamesckent.github.io/index2.html
