@@ -2,11 +2,10 @@
 <br>
 ## What is agent-based modelling?
 <br>
-Explain what agent-based modelling is.
+I have learnt a considerable amount on agent-based modelling curtesy of my university lecturer, Dr Andy Evans. Dr Andy Evans discusses agent-based modelling in-depth in a very informative webpage, which can be found [here]( http://www.geog.leeds.ac.uk/courses/other/crime/abm/general-modelling/index.html).
 <br>
 <br>
-Explain the steps I took.
-<br>
+Below is a screenshot of the agent-based model I created in my practical.
 <br>
 ![My Agent Based Model!](Agent-based model.jpg "My Agent Based Model")
 <br>
