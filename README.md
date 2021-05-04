@@ -9,5 +9,5 @@ This README file lays out my university coursework which aims to teach us how to
 [LICENSE.txt](https://github.com/jamesckent/jamesckent.github.io/files/6423506/LICENSE.txt)
 ### 3. Documentation
 Below are two simple text documents which detail my attempts to develop a Python program to build a simple agent-based model. The first document titled 'Main model' includes the main class that is run. The second document titled 'Agentframework code' deals with the agents. 
-[Main model.txt](https://github.com/jamesckent/jamesckent.github.io/files/6377644/Main.model.txt)
-[Agentframework code.txt](https://github.com/jamesckent/jamesckent.github.io/files/6377667/Agentframework.code.txt)
+- [Main model.txt](https://github.com/jamesckent/jamesckent.github.io/files/6377644/Main.model.txt)
+- [Agentframework code.txt](https://github.com/jamesckent/jamesckent.github.io/files/6377667/Agentframework.code.txt)
